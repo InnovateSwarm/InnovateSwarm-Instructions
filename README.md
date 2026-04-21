@@ -29,12 +29,12 @@ A rigorous multi-agent red team that pressure-tests ideas with brutal honesty an
 
 ## How to Use
 
-1. Click on any instruction above to view the full prompt.
+1. Click on any instruction above to view the full prompt template.
 2. Copy the **Quick Start Prompt** at the bottom of that page.
 3. Replace the placeholder with your own idea, problem, or goal.
 4. Paste it into your favorite agent framework (Swarms, CrewAI, AutoGen, etc.).
 
-All instructions are **open source** and free to use, modify, fork, or integrate into your projects.
+All instructions are **open source** and free to use, modify, fork, or integrate into your own agent swarms.
 
 ---
 
