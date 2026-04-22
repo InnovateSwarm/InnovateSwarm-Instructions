@@ -23,7 +23,7 @@ git clone https://github.com/InnovateSwarm/InnovateSwarm-Instructions.git
 cd InnovateSwarm-Instructions
 ````
 
-###2. Create a New Branch
+### 2. Create a New Branch
 
 ```bash
 git checkout -b improvement/swarm-tank-clarity
@@ -31,7 +31,7 @@ git checkout -b improvement/swarm-tank-clarity
 git checkout -b new-instruction/my-awesome-system
 ````
 
-###3. Follow Our Style Guidelines
+### 3. Follow Our Style Guidelines
 
 All instruction pages should maintain a consistent structure:
 
@@ -43,19 +43,19 @@ Quick Start Prompt (easy to copy-paste)
 Tags (at the bottom)
 Clean footer with credit to InnovateSwarm
 
-###Please:
+### Please:
 
 Use professional yet engaging language
 Keep instructions precise and actionable
 Use consistent markdown formatting
 Test the prompt in an agent framework before submitting
 
-###4. Make Your Changes
+### 4. Make Your Changes
 
 Edit existing pages inside their folders
 For new instruction pages, create a new folder with a README.md
 
-###5. Commit & Push
+### 5. Commit & Push
 
 ```bash
 git add .
@@ -63,14 +63,14 @@ git commit -m "Improve clarity in Swarm Tank instructions"
 git push origin improvement/swarm-tank-clarity
 ````
 
-###6. Open a Pull Request
+### 6. Open a Pull Request
 
 Go to GitHub and open a Pull Request with:
 A clear description of your changes
 Why the change improves the repository
 Any screenshots or example outputs (optional but helpful)
 
-###Code of Conduct
+### Code of Conduct
 
 Be respectful and constructive
 Assume positive intent
