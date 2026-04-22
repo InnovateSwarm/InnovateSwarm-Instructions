@@ -1,4 +1,4 @@
-# InnovateSwarm Open Instruction Pages
+# InnovateSwarm Open Source Instruction Pages
 
 A collection of high-quality, ready-to-use **multi-agent prompt templates** and instruction systems designed for agentic workflows (Swarms, CrewAI, AutoGen, LangGraph, etc.).
 
@@ -40,4 +40,4 @@ All instructions are **open source** and free to use, modify, fork, or integrate
 
 **Made with ❤️ by [InnovateSwarm](https://innovateswarm.com)**
 
-If these systems help you, please ⭐ star the repository!
+This prompt system is open source under the [MIT License](../LICENSE).
