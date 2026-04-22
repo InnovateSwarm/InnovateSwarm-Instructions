@@ -21,6 +21,7 @@ We welcome contributions that improve existing pages or add new powerful agentic
 ```bash
 git clone https://github.com/InnovateSwarm/InnovateSwarm-Instructions.git
 cd InnovateSwarm-Instructions
+````
 
 ###2. Create a New Branch
 
@@ -28,7 +29,7 @@ cd InnovateSwarm-Instructions
 git checkout -b improvement/swarm-tank-clarity
 # or
 git checkout -b new-instruction/my-awesome-system
-
+````
 
 ###3. Follow Our Style Guidelines
 
@@ -60,7 +61,7 @@ For new instruction pages, create a new folder with a README.md
 git add .
 git commit -m "Improve clarity in Swarm Tank instructions"
 git push origin improvement/swarm-tank-clarity
-
+````
 
 ###6. Open a Pull Request
 
