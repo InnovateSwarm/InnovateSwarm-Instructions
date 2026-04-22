@@ -1,4 +1,4 @@
-# InnovateSwarm Open Instruction Pages
+# InnovateSwarm Open Source Instruction Pages
 
 A collection of high-quality, ready-to-use **multi-agent prompt templates** and instruction systems designed for agentic workflows (Swarms, CrewAI, AutoGen, LangGraph, etc.).
 
