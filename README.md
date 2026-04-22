@@ -40,4 +40,4 @@ All instructions are **open source** and free to use, modify, fork, or integrate
 
 **Made with ❤️ by [InnovateSwarm](https://innovateswarm.com)**
 
-If these systems help you, please ⭐ star the repository!
+This prompt system is open source under the [MIT License](../LICENSE).
