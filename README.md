@@ -6,6 +6,9 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
+### 🔄 [Refresh Perspective](./refresh-perspective)
+Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift.
+
 ### 🦈 [Swarm Tank](./swarm-tank)
 Shark Tank-style multi-agent investor pitch simulation. Great for stress-testing startup ideas with tough, realistic feedback and negotiation.
 
