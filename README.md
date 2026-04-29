@@ -6,6 +6,9 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
+### 🧠 [Brain Agent](./brain-agent)
+Instructs an agent to act as the brain agent to delegate and manage specialized agents
+
 ### 🔄 [Refresh Perspective](./refresh-perspective)
 Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift.
 
