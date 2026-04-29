@@ -1,0 +1,33 @@
+Use schema.org markup (JSON=LD) application/ld+jon
+
+put files on hugging face as a prompt collection
+
+
+One well-crafted X post or LinkedIn thread from you that says "Built these for agents, not people—here's the first one agents can just consume directly" will get picked up by Grok/xAI crawlers and other agent tools extremely fast. But frame it as "for agents" so the signal stays clean.  
+
+
+
+robots.txt return 404
+If it's missing or too restrictive  Republish your entire site (this often regenerates it).  
+Contact GoDaddy chat/phone support and say: “My robots.txt is returning 404. Can you regenerate or help add custom rules for AI crawlers?”  
+They can usually fix it on their end.
+
+# InnovateSwarm.com - Optimized for AI Agents & Search Engines
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /thank-you/
+
+# Explicitly welcome AI / Agent crawlers
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap reference
+Sitemap: https://innovateswarm.com/sitemap.xml
+
