@@ -6,6 +6,9 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
+### 🛡️👥 Agent Safety [Agent Safety](./agent-safety)
+Transform a basic seed idea into a radically refined, high-impact concept through structured, relentless cycles of innovation.
+
 ### 🔄✨ Iterative Innovation Engine [Iterative Innovation](./iterative-innovation)
 Transform a basic seed idea into a radically refined, high-impact concept through structured, relentless cycles of innovation.
 
@@ -33,7 +36,7 @@ Designs the smallest, fastest, and cheapest real-world experiments to validate k
 ### 🔮 [Future Backcasting](./future-backcasting)
 Starts from a desired future outcome and works backwards to create realistic roadmaps and actionable steps.
 
-### 🛡️ [Innovation Critique](./innovation-critique)
+### ⚔️ [Innovation Critique](./innovation-critique)
 A rigorous multi-agent red team that pressure-tests ideas with brutal honesty and constructive feedback.
 
 ## How to Use
