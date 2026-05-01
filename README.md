@@ -6,6 +6,9 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
+### 🔄✨ Iterative Innovation Engine [Iterative Innovation](./iterative-innovation)
+Transform a basic seed idea into a radically refined, high-impact concept through structured, relentless cycles of innovation.
+
 ### 🧠 [Brain Agent](./brain-agent)
 Instructs an agent to act as the brain agent to delegate and manage specialized agents
 
