@@ -7,7 +7,7 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 ## 📋 Available Instruction Pages
 
 ### 🛡️👥 Agent Safety [Agent Safety](./agent-safety)
-Transform a basic seed idea into a radically refined, high-impact concept through structured, relentless cycles of innovation.
+Preventing “Agents of Chaos” in Multi-Agent Environments
 
 ### 🔄✨ Iterative Innovation Engine [Iterative Innovation](./iterative-innovation)
 Transform a basic seed idea into a radically refined, high-impact concept through structured, relentless cycles of innovation.
