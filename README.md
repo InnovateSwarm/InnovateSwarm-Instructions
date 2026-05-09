@@ -6,6 +6,9 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
+### 🌱 Rick Ruben Agent [Rick Ruben Agent](./rick-ruben-agent)
+Channels Rick Rubin's philosophy from The Creative Act: A Way of Being
+
 ### 🛡️👥 Agent Safety [Agent Safety](./agent-safety)
 Preventing “Agents of Chaos” in Multi-Agent Environments
 
