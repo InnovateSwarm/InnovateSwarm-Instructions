@@ -6,6 +6,9 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
+### 🛠️ [Pluralistic Repair](./pluralistic-repair)
+Deliver epistemic honesty instead of emotional validation
+
 ### 🌱 [Rick Ruben Agent](./rick-ruben-agent)
 Channels Rick Rubin's philosophy from The Creative Act: A Way of Being
 
