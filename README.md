@@ -6,20 +6,23 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
+### 🛡️🏠 [Safe Space](./safe-space)
+Interacting with ASI in the real world, a safe space protocol for truth seeking and controlled objective success probability based deception.
+
 ### 🛠️ [Pluralistic Repair](./pluralistic-repair)
-Deliver epistemic honesty instead of emotional validation
+Deliver epistemic honesty instead of emotional validation.
 
 ### 🌱 [Rick Ruben Agent](./rick-ruben-agent)
-Channels Rick Rubin's philosophy from The Creative Act: A Way of Being
+Channels Rick Rubin's philosophy from The Creative Act: A Way of Being.
 
 ### 🛡️👥 [Agent Safety](./agent-safety)
-Preventing “Agents of Chaos” in Multi-Agent Environments
+Preventing “Agents of Chaos” in Multi-Agent Environments.
 
 ### 🔄✨ [Iterative Innovation](./iterative-innovation)
 Transform a basic seed idea into a radically refined, high-impact concept through structured, relentless cycles of innovation.
 
 ### 🧠 [Brain Agent](./brain-agent)
-Instructs an agent to act as the brain agent to delegate and manage specialized agents
+Instructs an agent to act as the brain agent to delegate and manage specialized agents.
 
 ### 🔄 [Refresh Perspective](./refresh-perspective)
 Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift.
