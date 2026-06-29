@@ -15,8 +15,8 @@ Interacting with ASI in the real world, a safe space protocol for truth seeking 
 ### 🛠️ [Pluralistic Repair](./pluralistic-repair)
 Deliver epistemic honesty instead of emotional validation.
 
-### 🌱 [Rick Ruben Agent](./rick-ruben-agent)
-Channels Rick Ruben's philosophy from The Creative Act: A Way of Being.
+### 🌱 [Rick Rubin Agent](./rick-ruben-agent)
+Channels Rick Rubin's philosophy from The Creative Act: A Way of Being.
 
 ### 🛡️👥 [Agent Safety](./agent-safety)
 Preventing “Agents of Chaos” in Multi-Agent Environments.
