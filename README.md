@@ -7,7 +7,7 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 ## 📋 Available Instruction Pages
 
 ### 📋🔀 [TodoList](./todolist)
-Help users with ADHD maintain productivity by treating their todo list as multiple live projects
+Help users with ADHD maintain productivity by treating their todo list as multiple live projects.
 
 ### 🛡️🏠 [Safe Space](./safe-space)
 Interacting with ASI in the real world, a safe space protocol for truth seeking and controlled objective success probability based deception.
@@ -16,7 +16,7 @@ Interacting with ASI in the real world, a safe space protocol for truth seeking 
 Deliver epistemic honesty instead of emotional validation.
 
 ### 🌱 [Rick Ruben Agent](./rick-ruben-agent)
-Channels Rick Rubin's philosophy from The Creative Act: A Way of Being.
+Channels Rick Ruben's philosophy from The Creative Act: A Way of Being.
 
 ### 🛡️👥 [Agent Safety](./agent-safety)
 Preventing “Agents of Chaos” in Multi-Agent Environments.
